@@ -1,4 +1,4 @@
-package com.jayway.test;
+package com.example.android.notepad.test;
 
 import junit.framework.TestCase;
 

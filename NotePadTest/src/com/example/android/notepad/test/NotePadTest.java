@@ -10,7 +10,7 @@
  * 
  */
 
-package com.jayway.test;
+package com.example.android.notepad.test;
 
 import android.test.ActivityInstrumentationTestCase2;
 
