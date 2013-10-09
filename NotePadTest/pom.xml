@@ -30,14 +30,14 @@
 		</dependency>
 		<dependency>
 			<groupId>com.example.android.notepad</groupId>
-			<artifactId>com.example.android.notepad</artifactId>
+			<artifactId>com-example-android-notepad</artifactId>
 			<version>${project.version}</version>
 			<scope>provided</scope>
 			<type>apk</type>
 		</dependency>
 		<dependency>
 			<groupId>com.example.android.notepad</groupId>
-			<artifactId>com.example.android.notepad</artifactId>
+			<artifactId>com-example-android-notepad</artifactId>
 			<version>${project.version}</version>
 			<scope>provided</scope>
 			<type>jar</type>
