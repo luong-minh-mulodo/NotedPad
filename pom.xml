@@ -12,7 +12,7 @@
     <packaging>pom</packaging>
 
     <issueManagement>
-        <url>https://github.com/luong-minh-mulodo/TestAndroid/issues</url>
+        <url>https://github.com/luong-minh-mulodo/NotedPad/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/luong-minh-mulodo/TestAndroid</url>
-        <connection>scm:git:git://github.com/luong-minh-mulodo/TestAndroid.git</connection>
-        <developerConnection>scm:git:git@github.com.cmput301.recipebot.git</developerConnection>
+        <url>https://github.com/luong-minh-mulodo/NotedPad</url>
+        <connection>scm:git:git://github.com/luong-minh-mulodo/NotedPad.git</connection>
+        <developerConnection>scm:git:git@github.com/luong-minh-mulodo/NotedPad.git</developerConnection>
     </scm>
 
     <developers>
