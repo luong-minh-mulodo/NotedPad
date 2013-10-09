@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>com-example-android-notepad-notepadtest</artifactId>
-	<name>NotedPadTest</name>
+	<name>NotePadTest</name>
 	<packaging>apk</packaging>
 
 	<parent>
